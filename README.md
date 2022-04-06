@@ -1,8 +1,6 @@
-# temps-tation Project
+# Temps-tation
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
-
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+A web application that can visualize temperature over time and be able to help a business user understand the temperature changes on a given day.
 
 ## Running the application in dev mode
 
